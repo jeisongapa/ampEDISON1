@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "pactos.html",
     "theme": {
       "name": "healthamp",
       "title": "HealthAMP",
@@ -54,7 +54,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "cupoz0htin",
+    "mbrsiteDomain": "wjeimavois",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -518,10 +518,10 @@
         }
       ]
     },
-    "page1.html": {
+    "pactos.html": {
       "settings": {
         "title": "Pactos",
-        "meta_descr": "Ayudamos a que regrese a ti la persona que amaste tanto, para que vuelvan a ser felices por mucho tiempo.",
+        "meta_descr": "Usted no tendrá ningún riesgo al hacer este tipo de ritual, somos un grupo de poderosos brujos, santeros y chamanes con más de 30 años de experiencia.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
