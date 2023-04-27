@@ -54,8 +54,8 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "5ehc02nbd9",
-    "robotsSwitcher": true,
+    "mbrsiteDomain": "vdzbj8antv",
+    "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
@@ -65,10 +65,10 @@
     "versionPublish": "5.7.4",
     "canonical-url": "https://maestrosybrujos.com",
     "site_lang": "es",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "global_header_custom": "\n",
     "global_after_body": "",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
