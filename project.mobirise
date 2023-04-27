@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pactos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "healthamp",
       "title": "HealthAMP",
@@ -54,7 +54,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "wjeimavois",
+    "mbrsiteDomain": "5ehc02nbd9",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -65,7 +65,7 @@
     "versionPublish": "5.7.4",
     "canonical-url": "https://maestrosybrujos.com",
     "site_lang": "es",
-    "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "global_header_custom": "\n",
     "global_after_body": "",
     "publishChangesOnly": true,
@@ -281,7 +281,7 @@
             }
           },
           "_name": "content03",
-          "_customHTML": "<section class=\"content03\" group=\"Content\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Image Background\" name=\"imgbg\" value=\"#ff4a4a\" selected>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container\">\n           \n        \n        <div class=\"mbr-row\">\n            \n            \n            \n                    <div class=\"mbr-col-lg-6 mbr-col-md-12 md-pb mbr-m-auto mbr-col-sm-12\">\n                   <div class=\"img-wrapper\">\n         <amp-img src=\"@PROJECT_PATH@/assets/images/2-1.webp\" alt=\"Mobirise\" width=\"506\" height=\"506\" layout=\"responsive\" class=\"mobirise-loader mbr-m-auto align-center\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/2-1.webp\" alt=\"Mobirise\" data-aspectratio=\"1\">\n                </amp-img>\n                       </div>\n         </div>\n              \n \n        \n        \n        <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 mbr-m-auto text-col\">\n                        \n               <h1 class=\"mbr-section-title mbr-fonts-style align-left mbr-semibold mbr-black mbr-pb-3\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><b>Amarres de Amor</b></h1>\n        <p class=\"mbr-text text1 mbr-regular mbr-fonts-style align-left mbr-black mbr-light mbr-pb-3\" mbr-theme-style=\"display-7\" data-app-selector=\".text1, .mbr-section-btn\" mbr-if=\"showText\">Nuestros expertos ayudarán a reforzar el amor en la pareja, para que no se alejen más y puedan siempre disfrutar del buen amor que tendrán para estar unidos.</p>\n       \n        <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-7\"><a class=\"btn btn-lg btn-primary\" href=\"https://contacto.guru/Edi1\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>\n                CONTACTAR</a></div>\n    </div>\n            \n         \n            \n     \n            \n        \n              </div>\n        \n        \n        \n     </div>      \n        \n        \n     \n\n</section>",
+          "_customHTML": "<section class=\"content03\" group=\"Content\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"color\" title=\"Image Background\" name=\"imgbg\" value=\"#ff4a4a\" selected=\"\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container\">\n           \n        \n        <div class=\"mbr-row\">\n            \n            \n            \n                    <div class=\"mbr-col-lg-6 mbr-col-md-12 md-pb mbr-m-auto mbr-col-sm-12\">\n                   <div class=\"img-wrapper\">\n         <amp-img src=\"@PROJECT_PATH@/assets/images/2-1.webp\" alt=\"Mobirise\" width=\"506\" height=\"506\" layout=\"responsive\" class=\"mobirise-loader mbr-m-auto align-center\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/2-1.webp\" alt=\"Mobirise\" data-aspectratio=\"1\">\n                </amp-img>\n                       </div>\n         </div>\n              \n \n        \n        \n        <div class=\"mbr-col-lg-6 mbr-col-md-12 mbr-col-sm-12 mbr-m-auto text-col\">\n                        \n               <h1 class=\"mbr-section-title mbr-fonts-style align-left mbr-semibold mbr-black mbr-pb-3\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><b>Amarres de Amor</b></h1>\n        <p class=\"mbr-text text1 mbr-regular mbr-fonts-style align-left mbr-black mbr-light mbr-pb-3\" mbr-theme-style=\"display-7\" data-app-selector=\".text1, .mbr-section-btn\" mbr-if=\"showText\">Nuestros expertos ayudarán a reforzar el amor en la pareja, para que no se alejen más y puedan siempre disfrutar del buen amor que tendrán para estar unidos.</p>\n       \n        <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-7\"><a class=\"btn btn-lg btn-primary\" href=\"https://contacto.guru/Edi1\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>\n                CONTACTAR</a></div>\n    </div>\n            \n         \n            \n     \n            \n        \n              </div>\n        \n        \n        \n     </div>      \n        \n        \n     \n\n</section>",
           "_cid": "rX4prLfvBh",
           "_anchor": "content03-e",
           "_sourceTheme": "healthamp",
@@ -610,11 +610,11 @@
           "_customHTML": "<section class=\"info01\" group=\"Info\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container mbr-white\">\n        \n        <div class=\"mbr-row\">\n        \n       <div class=\"mbr-col-lg-8 mbr-col-md-12 mbr-col-sm-12\">\n            \n            \n           \n        <h1 class=\"mbr-section-title mbr-fonts-style align-center mbr-semibold mbr-pb-3\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Contáctanos al\n<div>+1 718 569 9250</div></h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center mbr-light mbr-pb-3\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">Y le mostraremos los secretos que usa la élite mundial para el éxito.</h3>\n        <p class=\"mbr-fonts-style mbr-text align-center mbr-pb-3 \" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor nisi a dui vehicula, placerat maximus justo tempor. Pellentesque maximus bibendum posuere. Praesent porttitor imperdiet elit in finibus.\n        </p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-lg btn-primary\" href=\"https://contacto.guru/Edi1\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>CONTACTAR</a></div>\n    </div>\n </div> </div>\n</section>",
           "_sourceTheme": "healthamp",
           "_cid": "tCtuNo2aVq",
+          "_anchor": "info01-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "info01-9"
+          "_params": {}
         },
         {
           "alias": false,
@@ -813,11 +813,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tCtuNokEJy",
+          "_anchor": "features06-b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features06-b"
+          "_params": {}
         },
         {
           "alias": false,
@@ -894,11 +894,11 @@
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global=\"\" once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n    \n<input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        \n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Show Items\" name=\"showItems\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Column 1 Items\" name=\"columnItems1\" min=\"0\" max=\"3\" value=\"0\" condition=\"showItems\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n           \n            <div class=\"items-col mbr-col-sm-12 mbr-col-lg-5 mbr-col-md-12 align-right\">\n                \n                 <amp-img src=\"@PROJECT_PATH@/assets/images/logo-128x128.png\" mbr-if=\"showLogo\" layout=\"responsive\" width=\"50\" height=\"50\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-128x128.png\" alt=\"Mobirise\" data-aspectratio=\"1\">\n                </amp-img>\n                \n    \n                <div class=\"items\" mbr-list=\"\" mbr-list-grow=\"columnItems1\" mbr-if=\"showItems\">\n                    <p class=\"item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".item, .items\"><a href=\"#\" class=\"text-warning\">START HERE</a></p>\n                    \n                    \n                </div>\n            </div>\n\n            <div class=\"items-col copyright mbr-col-sm-12 mbr-col-lg-2 mbr-col-md-12 align-center\">\n                <h3 class=\"mbr-fonts-style group-title mbr-regular\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".group-title\">© Templo 2025</h3>\n            </div>\n\n            <div class=\"button-col mbr-col-sm-12 mbr-col-lg-5 align-right\">\n                <h3 class=\"mbr-fonts-style align-right group-text mbr-bold\" mbr-theme-style=\"display-5\" data-app-selector=\".group-text\"></h3>\n            \n                  <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Contactar</a></div>\n                \n            </div>\n\n        </div>\n    </div>\n</section>",
           "_sourceTheme": "healthamp",
           "_cid": "tCtuNp0A6m",
+          "_anchor": "footer01-c",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer01-c"
+          "_params": {}
         }
       ]
     }
